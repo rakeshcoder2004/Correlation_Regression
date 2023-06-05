@@ -25,5 +25,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+Thus we have analysed the given data using coeffificient of correlation and regression line.
 
 # Output 
+![image](https://github.com/rakeshcoder2004/Correlation_Regression/assets/121490890/04e4cc11-22a9-42c3-b8da-3ad34d921528)
